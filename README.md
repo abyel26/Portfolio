@@ -5,7 +5,7 @@
 * Bachelor of Science in Computer Science. *University of Colorado - Denver*, 2017-2022
 
 # [Project 1: Take-N-Teach Learning Platform](https://engineering.ucdenver.edu/current-students/capstone-expo/archived-expos/sp21/csci2)
-<a href="https://play.google.com/store/apps/details?id=raramuri.codex.com.raramuri_tarahumara&hl=en_US" target="_blank"><img src="thumbnail_image.png" 
+<a href="https://engineering.ucdenver.edu/current-students/capstone-expo/archived-expos/sp21/csci2" target="_blank"><img src="thumbnail_image.png" 
 alt="IMAGE ALT TEXT HERE" width="248" height="248" align="center" border="10"/></a>
 
 This project is an online learning platform featuring courses taught by instructors, pay-per-video, offline storage.
