@@ -2,7 +2,7 @@
 *Aspiring Software Developer*
 
 # Education
-* Bachelor of Science in Computer Science. *University of Colorado - Denver* 2017-2022
+* B.Sci. Computer Science. *University of Colorado - Denver*. 2017-2022
 
 # [Project 1: Take-N-Teach Learning Platform](https://engineering.ucdenver.edu/current-students/capstone-expo/archived-expos/sp21/csci2)
 <p align="center">
@@ -10,7 +10,7 @@
 alt="IMAGE ALT TEXT HERE" width="640"  border="10"/></a>
  </p>
  
-This project is an online learning platform featuring courses taught by instructors, pay-per-video, offline storage.
+This project is an online learning platform featuring courses taught by certified instructors, pay-per-video, offline storage, email composer, etc.
 * **Programming Language:** JavaScript
 * **Frontend:** Ionic Framework, Angular, TypeScript, HTML, CSS
 * **Backend:** NodeJS, ExpressJS, MongoDB, Google Cloud
@@ -43,7 +43,7 @@ This is a machine learning project that detects a person's mood from a picture. 
 alt="IMAGE ALT TEXT HERE" width="640"  align="center" border="10"/></a>
 </p>
 
-This is an Android application for a car detailing business. Users can view images of the detailed cars, view packages and pricing, and set up appointments.
+This is an Android application for a car detailing business. Users can view samples of detailed cars, view packages and pricing, and set up appointments.
 * **Programming Language:** Python
 
 **Source Code:** [https://github.com/abyel26/Song-Recommendation-Based-On-Mood](https://github.com/abyel26/Song-Recommendation-Based-On-Mood)
