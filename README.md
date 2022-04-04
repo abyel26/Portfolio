@@ -12,6 +12,15 @@ This project is an online learning platform featuring courses taught by instruct
 * **Frontend:** Ionic Framework, Angular, TypeScript, HTML, CSS
 * **Backend:** NodeJS, ExpressJS, MongoDB, Google Cloud
 
+# [Project 2: Rarámuri - Tarahumara] (https://play.google.com/store/apps/details?id=raramuri.codex.com.raramuri_tarahumara&hl=en_US)
+![alt text](tarahumara-women-candy-mayer)
+
+This Android app displays illustrations, and translations of words of an indigenous language of northern México. It has over 1000 downloads.
+* **Programming Language:** Java
+
+
+
+
 
 
  
