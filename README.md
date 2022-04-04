@@ -11,8 +11,8 @@ alt="IMAGE ALT TEXT HERE" width="640"  border="10"/></a>
  </p>
  
 This project is an online learning platform featuring courses taught by certified instructors, pay-per-video, offline storage, email composer, etc.
-* **Programming Language:** JavaScript
-* **Frontend:** Ionic Framework, Angular, TypeScript, HTML, CSS
+* **Programming Language:** TypeScript
+* **Frontend:** Ionic Framework, Angular, HTML, CSS
 * **Backend:** NodeJS, ExpressJS, MongoDB, Google Cloud
 
 **Source Code:** [https://github.com/abyel26/Song-Recommendation-Based-On-Mood](https://github.com/abyel26/Song-Recommendation-Based-On-Mood)
