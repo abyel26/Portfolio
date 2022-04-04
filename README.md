@@ -6,7 +6,7 @@
 
 # [Project 1: Take-N-Teach Learning Platform](https://engineering.ucdenver.edu/current-students/capstone-expo/archived-expos/sp21/csci2)
 <a href="https://engineering.ucdenver.edu/current-students/capstone-expo/archived-expos/sp21/csci2" target="_blank"><img src="andrew-neel-cckf4TsHAuw-unsplash.jpg" 
-alt="IMAGE ALT TEXT HERE" width="1920" height="720" align="center" border="10"/></a>
+alt="IMAGE ALT TEXT HERE" width="640" height="427" align="center" border="10"/></a>
 
 This project is an online learning platform featuring courses taught by instructors, pay-per-video, offline storage.
 * **Programming Language:** JavaScript
