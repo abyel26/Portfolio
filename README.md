@@ -1,5 +1,5 @@
 # Abyel Romero - Cano
-*Aspiring Software Developer. Immigrant* 
+*Aspiring Software Developer.* 
 
 # Education
 * B.Sci. Computer Science. *University of Colorado - Denver*. 2017-2022
