@@ -15,6 +15,7 @@ This project is an online learning platform featuring courses taught by certifie
 * **Frontend:** Ionic Framework, Angular, HTML, CSS
 * **Backend:** NodeJS, ExpressJS, MongoDB, Google Cloud
 
+Links
 * **Source Code:** [https://github.com/abyel26/takenteach](https://github.com/abyel26/takenteach)
 * **Project Showcase:** [https://engineering.ucdenver.edu/current-students/capstone-expo/archived-expos/sp21/csci2](https://engineering.ucdenver.edu/current-students/capstone-expo/archived-expos/sp21/csci2
 )
