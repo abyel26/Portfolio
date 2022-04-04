@@ -16,6 +16,10 @@ This project is an online learning platform featuring courses taught by certifie
 * **Backend:** NodeJS, ExpressJS, MongoDB, Google Cloud
 
 **Source Code:** [https://github.com/abyel26/takenteach](https://github.com/abyel26/takenteach)
+**Project Showcase:** [https://engineering.ucdenver.edu/current-students/capstone-expo/archived-expos/sp21/csci2
+](https://engineering.ucdenver.edu/current-students/capstone-expo/archived-expos/sp21/csci2
+)
+
 # [Project 2: Rarámuri - Tarahumara](https://play.google.com/store/apps/details?id=raramuri.codex.com.raramuri_tarahumara&hl=en_US)
 <p align="center">
 <a href="https://play.google.com/store/apps/details?id=raramuri.codex.com.raramuri_tarahumara&hl=en_US" target="_blank"><img src="azzedine-rouichi-F3BBLFml5Hw-unsplash.jpg" 
