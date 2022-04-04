@@ -46,8 +46,6 @@ alt="IMAGE ALT TEXT HERE" width="640"  align="center" border="10"/></a>
 This is an Android application for a car detailing business. Users can view samples of detailed cars, view packages and pricing, and set up appointments.
 * **Programming Language:** Java
 
-**Source Code:** [https://github.com/abyel26/Song-Recommendation-Based-On-Mood](https://github.com/abyel26/Song-Recommendation-Based-On-Mood)
-
 
 
 
