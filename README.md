@@ -9,7 +9,7 @@
 alt="IMAGE ALT TEXT HERE" width="640"  border="10"/></a>
  </p>
  
-Online learning platform consisting of an iOS, Android, and a web application all developed with the Ionic framework talking to a REST API. The application features courses taught by certified instructors, pay-per-video, offline storage, private messaging/classes with instructors, email composer,J WT tokenization, etc. 
+Online learning platform consisting of an iOS, Android, and a web application all developed with the Ionic framework talking to a REST API. The application features courses taught by certified instructors, pay-per-video, offline storage, private messaging/classes with instructors, email composer, JWT tokenization, etc. 
 * **Programming Language:** TypeScript
 * **Frontend:** Ionic Framework, Angular, HTML, CSS
 * **Backend:** NodeJS, ExpressJS, MongoDB, Google Cloud
