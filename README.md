@@ -1,4 +1,4 @@
-***Aspiring Software Developer
+*Aspiring Software Engineer
 
 # Education
 * B.Sci. Computer Science. *University of Colorado - Denver*. 2017-2021
