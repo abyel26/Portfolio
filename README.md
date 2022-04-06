@@ -1,8 +1,9 @@
+
 # Abyel Romero - Cano
 *Aspiring Software Developer.* 
 
 # Education
-* B.Sci. Computer Science. *University of Colorado - Denver*. 2017-2022
+* B.Sci. Computer Science. *University of Colorado - Denver*. 2017-2021
 
 # [Project 1: Take-N-Teach Learning Platform](https://engineering.ucdenver.edu/current-students/capstone-expo/archived-expos/sp21/csci2)
 <p align="center">
